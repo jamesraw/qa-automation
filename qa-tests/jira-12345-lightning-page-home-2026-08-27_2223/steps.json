@@ -1,0 +1,387 @@
+[
+  {
+    "detail": "click",
+    "element": {
+      "classes": [
+        "slds-context-bar__label-action",
+        "dndItem"
+      ],
+      "dataAttrs": {},
+      "id": null,
+      "label": "Opportunities",
+      "name": null,
+      "role": null,
+      "selector": "one-app-nav-bar-item-root[data-target-selection-name=\"sfdc\\:TabDefinition\\.standard-Opportunity\"] > a",
+      "selectorPath": [
+        "one-app-nav-bar-item-root[data-target-selection-name=\"sfdc\\:TabDefinition\\.standard-Opportunity\"] > a"
+      ],
+      "tag": "a",
+      "type": null,
+      "url": "https://firstchair-b-dev-ed.develop.lightning.force.com/lightning/page/home"
+    },
+    "kind": "click",
+    "screenshot": "screenshots/step-001.jpg",
+    "step": 1,
+    "timestamp": "2026-08-28T01:21:32.086Z"
+  },
+  {
+    "detail": "click",
+    "element": {
+      "classes": [
+        "slds-truncate"
+      ],
+      "dataAttrs": {
+        "data-navigation": "enable"
+      },
+      "id": null,
+      "label": "New Opportunity 2",
+      "name": null,
+      "role": null,
+      "selector": "th > span > div > lightning-primitive-custom-cell > lst-output-lookup > force-lookup > div > a",
+      "selectorPath": [
+        "th > span > div > lightning-primitive-custom-cell > lst-output-lookup > force-lookup > div > a"
+      ],
+      "tag": "a",
+      "type": null,
+      "url": "https://firstchair-b-dev-ed.develop.lightning.force.com/lightning/o/Opportunity/list?filterName=__Recent"
+    },
+    "kind": "click",
+    "screenshot": "screenshots/step-002.jpg",
+    "step": 2,
+    "timestamp": "2026-08-28T01:21:34.929Z"
+  },
+  {
+    "detail": "click",
+    "element": {
+      "classes": [
+        "slds-button",
+        "slds-button_icon-small",
+        "slds-button_icon-border-filled"
+      ],
+      "dataAttrs": {
+        "data-aura-rendered-by": "1978:0"
+      },
+      "id": null,
+      "label": "Show actions for Quotes",
+      "name": null,
+      "role": "button",
+      "selector": "lst-common-list-internal > lst-list-view-manager-header > div > div:nth-of-type(1) > div:nth-of-type(3) > div > div > a",
+      "selectorPath": [
+        "lst-common-list-internal > lst-list-view-manager-header > div > div:nth-of-type(1) > div:nth-of-type(3) > div > div > a"
+      ],
+      "tag": "a",
+      "type": null,
+      "url": "https://firstchair-b-dev-ed.develop.lightning.force.com/lightning/r/Opportunity/006ak00000Y2MLpAAN/view"
+    },
+    "kind": "click",
+    "screenshot": "screenshots/step-003.jpg",
+    "step": 3,
+    "timestamp": "2026-08-28T01:21:37.339Z"
+  },
+  {
+    "detail": "click",
+    "element": {
+      "classes": [
+        "highlightButton"
+      ],
+      "dataAttrs": {
+        "data-aura-rendered-by": "2220:0",
+        "data-target-selection-name": "sfdc:StandardButton.Quote.NewQuote"
+      },
+      "id": null,
+      "label": "New Quote",
+      "name": null,
+      "role": "menuitem",
+      "selector": "a[data-target-selection-name=\"sfdc\\:StandardButton\\.Quote\\.NewQuote\"]",
+      "selectorPath": [
+        "a[data-target-selection-name=\"sfdc\\:StandardButton\\.Quote\\.NewQuote\"]"
+      ],
+      "tag": "a",
+      "type": null,
+      "url": "https://firstchair-b-dev-ed.develop.lightning.force.com/lightning/r/Opportunity/006ak00000Y2MLpAAN/view"
+    },
+    "kind": "click",
+    "screenshot": "screenshots/step-004.jpg",
+    "step": 4,
+    "timestamp": "2026-08-28T01:21:38.781Z"
+  },
+  {
+    "detail": "click",
+    "element": {
+      "classes": [
+        "slds-input"
+      ],
+      "dataAttrs": {},
+      "id": "input-975",
+      "label": "*Quote Name",
+      "name": "Name",
+      "role": null,
+      "selector": "input[name=\"Name\"]",
+      "selectorPath": [
+        "input[name=\"Name\"]"
+      ],
+      "tag": "input",
+      "type": "text",
+      "url": "https://firstchair-b-dev-ed.develop.lightning.force.com/lightning/o/Quote/new?count=1&nooverride=1&useRecordTypeCheck=1&navigationLocation=RELATED_LIST&uid=178788009900069600&backgroundContext=%2Flightning%2Fr%2FOpportunity%2F006ak00000Y2MLpAAN%2Fview"
+    },
+    "kind": "click",
+    "screenshot": "screenshots/step-005.jpg",
+    "step": 5,
+    "timestamp": "2026-08-28T01:21:41.147Z"
+  },
+  {
+    "detail": "TESTY A123123",
+    "element": {
+      "classes": [
+        "slds-input"
+      ],
+      "dataAttrs": {},
+      "id": "input-975",
+      "label": "*Quote Name",
+      "name": "Name",
+      "role": null,
+      "selector": "input[name=\"Name\"]",
+      "selectorPath": [
+        "input[name=\"Name\"]"
+      ],
+      "tag": "input",
+      "type": "text",
+      "url": "https://firstchair-b-dev-ed.develop.lightning.force.com/lightning/o/Quote/new?count=1&nooverride=1&useRecordTypeCheck=1&navigationLocation=RELATED_LIST&uid=178788009900069600&backgroundContext=%2Flightning%2Fr%2FOpportunity%2F006ak00000Y2MLpAAN%2Fview"
+    },
+    "kind": "type",
+    "step": 6,
+    "timestamp": "2026-08-28T01:21:43.486Z"
+  },
+  {
+    "detail": "click",
+    "element": {
+      "classes": [
+        "slds-button",
+        "slds-button_brand"
+      ],
+      "dataAttrs": {},
+      "id": null,
+      "label": "Save",
+      "name": "SaveEdit",
+      "role": null,
+      "selector": "button[name=\"SaveEdit\"]",
+      "selectorPath": [
+        "button[name=\"SaveEdit\"]"
+      ],
+      "tag": "button",
+      "type": "button",
+      "url": "https://firstchair-b-dev-ed.develop.lightning.force.com/lightning/o/Quote/new?count=1&nooverride=1&useRecordTypeCheck=1&navigationLocation=RELATED_LIST&uid=178788009900069600&backgroundContext=%2Flightning%2Fr%2FOpportunity%2F006ak00000Y2MLpAAN%2Fview"
+    },
+    "kind": "click",
+    "screenshot": "screenshots/step-007.jpg",
+    "step": 7,
+    "timestamp": "2026-08-28T01:21:43.898Z"
+  },
+  {
+    "detail": "click",
+    "element": {
+      "classes": [
+        "forceActionLink"
+      ],
+      "dataAttrs": {
+        "data-aura-class": "forceActionLink",
+        "data-aura-rendered-by": "2346:0"
+      },
+      "id": null,
+      "label": "TESTY A123123",
+      "name": null,
+      "role": null,
+      "selector": "div[data-key=\"success\"] > div > div:nth-of-type(1) > div > div > span > a",
+      "selectorPath": [
+        "div[data-key=\"success\"] > div > div:nth-of-type(1) > div > div > span > a"
+      ],
+      "tag": "a",
+      "type": null,
+      "url": "https://firstchair-b-dev-ed.develop.lightning.force.com/lightning/r/Opportunity/006ak00000Y2MLpAAN/view"
+    },
+    "kind": "click",
+    "screenshot": "screenshots/step-008.jpg",
+    "step": 8,
+    "timestamp": "2026-08-28T01:21:47.958Z"
+  },
+  {
+    "detail": "click",
+    "element": {
+      "classes": [
+        "slds-button",
+        "slds-button_neutral"
+      ],
+      "dataAttrs": {},
+      "id": null,
+      "label": "Browse Catalogs",
+      "name": "BrowseCatalog",
+      "role": null,
+      "selector": "button[name=\"BrowseCatalog\"]",
+      "selectorPath": [
+        "button[name=\"BrowseCatalog\"]"
+      ],
+      "tag": "button",
+      "type": "button",
+      "url": "https://firstchair-b-dev-ed.develop.lightning.force.com/lightning/r/Quote/0Q0ak000003DfMzCAK/view"
+    },
+    "kind": "click",
+    "screenshot": "screenshots/step-009.jpg",
+    "step": 9,
+    "timestamp": "2026-08-28T01:21:50.623Z"
+  },
+  {
+    "detail": "click",
+    "element": {
+      "classes": [
+        "slds-button",
+        "slds-button_brand"
+      ],
+      "dataAttrs": {},
+      "id": null,
+      "label": "Save",
+      "name": "save-button",
+      "role": null,
+      "selector": "button[name=\"save-button\"]",
+      "selectorPath": [
+        "button[name=\"save-button\"]"
+      ],
+      "tag": "button",
+      "type": "button",
+      "url": "https://firstchair-b-dev-ed.develop.lightning.force.com/lightning/r/Quote/0Q0ak000003DfMzCAK/view"
+    },
+    "kind": "click",
+    "screenshot": "screenshots/step-010.jpg",
+    "step": 10,
+    "timestamp": "2026-08-28T01:21:52.617Z"
+  },
+  {
+    "detail": "click",
+    "element": {
+      "classes": [],
+      "dataAttrs": {
+        "data-action-triggers": "space",
+        "data-navigation": "enable"
+      },
+      "id": "primitive-checkbox-radio-id-1501",
+      "label": "Select Item 4",
+      "name": "lgt-datatable-19-options",
+      "role": null,
+      "selector": "div > table > tbody > tr:nth-of-type(4) > td:nth-of-type(1) > lightning-primitive-cell-checkbox > span > input",
+      "selectorPath": [
+        "div > table > tbody > tr:nth-of-type(4) > td:nth-of-type(1) > lightning-primitive-cell-checkbox > span > input"
+      ],
+      "tag": "input",
+      "type": "radio",
+      "url": "https://firstchair-b-dev-ed.develop.lightning.force.com/lightning/r/Quote/0Q0ak000003DfMzCAK/view"
+    },
+    "kind": "click",
+    "screenshot": "screenshots/step-011.jpg",
+    "step": 11,
+    "timestamp": "2026-08-28T01:21:55.341Z"
+  },
+  {
+    "detail": "on",
+    "element": {
+      "classes": [],
+      "dataAttrs": {
+        "data-action-triggers": "space",
+        "data-navigation": "enable"
+      },
+      "id": "primitive-checkbox-radio-id-1501",
+      "label": "Select Item 4",
+      "name": "lgt-datatable-19-options",
+      "role": null,
+      "selector": "div > table > tbody > tr:nth-of-type(4) > td:nth-of-type(1) > lightning-primitive-cell-checkbox > span > input",
+      "selectorPath": [
+        "div > table > tbody > tr:nth-of-type(4) > td:nth-of-type(1) > lightning-primitive-cell-checkbox > span > input"
+      ],
+      "tag": "input",
+      "type": "radio",
+      "url": "https://firstchair-b-dev-ed.develop.lightning.force.com/lightning/r/Quote/0Q0ak000003DfMzCAK/view"
+    },
+    "kind": "type",
+    "step": 12,
+    "timestamp": "2026-08-28T01:21:56.119Z"
+  },
+  {
+    "detail": "click",
+    "element": {
+      "classes": [
+        "slds-button",
+        "slds-button_brand"
+      ],
+      "dataAttrs": {},
+      "id": null,
+      "label": "Next",
+      "name": null,
+      "role": null,
+      "selector": "lightning-flow > section > flowruntime-flow > flowruntime-navigation-bar > footer > div > lightning-button > button",
+      "selectorPath": [
+        "lightning-flow > section > flowruntime-flow > flowruntime-navigation-bar > footer > div > lightning-button > button"
+      ],
+      "tag": "button",
+      "type": "button",
+      "url": "https://firstchair-b-dev-ed.develop.lightning.force.com/lightning/r/Quote/0Q0ak000003DfMzCAK/view"
+    },
+    "kind": "click",
+    "screenshot": "screenshots/step-013.jpg",
+    "step": 13,
+    "timestamp": "2026-08-28T01:21:56.393Z"
+  },
+  {
+    "detail": "click",
+    "element": {
+      "classes": [
+        "slds-button",
+        "slds-button_outline-brand"
+      ],
+      "dataAttrs": {},
+      "id": null,
+      "label": "Add",
+      "name": "Add",
+      "role": null,
+      "selector": "slot > lightning-layout > slot > lightning-layout-item:nth-of-type(4) > slot > div > lightning-button > button",
+      "selectorPath": [
+        "slot > lightning-layout > slot > lightning-layout-item:nth-of-type(4) > slot > div > lightning-button > button"
+      ],
+      "tag": "button",
+      "type": "button",
+      "url": "https://firstchair-b-dev-ed.develop.lightning.force.com/lightning/r/Quote/0Q0ak000003DfMzCAK/view"
+    },
+    "kind": "click",
+    "screenshot": "screenshots/step-014.jpg",
+    "step": 14,
+    "timestamp": "2026-08-28T01:21:59.861Z"
+  },
+  {
+    "detail": "click",
+    "element": {
+      "classes": [
+        "slds-button",
+        "slds-button_brand"
+      ],
+      "dataAttrs": {},
+      "id": null,
+      "label": "Save Quote",
+      "name": null,
+      "role": null,
+      "selector": "div > runtime_revenue_products-prd-lst-container > div > div:nth-of-type(3) > div > div:nth-of-type(2) > lightning-button > button",
+      "selectorPath": [
+        "div > runtime_revenue_products-prd-lst-container > div > div:nth-of-type(3) > div > div:nth-of-type(2) > lightning-button > button"
+      ],
+      "tag": "button",
+      "type": "button",
+      "url": "https://firstchair-b-dev-ed.develop.lightning.force.com/lightning/r/Quote/0Q0ak000003DfMzCAK/view"
+    },
+    "kind": "click",
+    "screenshot": "screenshots/step-015.jpg",
+    "step": 15,
+    "timestamp": "2026-08-28T01:22:01.117Z"
+  },
+  {
+    "kind": "scenario",
+    "step": 16,
+    "timestamp": "2026-08-28T01:23:20.162Z",
+    "title": "JIRA-2123"
+  }
+]
