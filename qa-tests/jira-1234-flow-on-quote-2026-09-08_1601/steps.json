@@ -1,0 +1,587 @@
+[
+  {
+    "detail": "click",
+    "element": {
+      "classes": [
+        "slds-context-bar__label-action",
+        "dndItem"
+      ],
+      "dataAttrs": {},
+      "id": null,
+      "label": "Quotes",
+      "name": null,
+      "role": null,
+      "selector": "one-app-nav-bar-item-root[data-target-selection-name=\"sfdc\\:TabDefinition\\.standard-Quote\"] > a",
+      "selectorPath": [
+        "one-app-nav-bar-item-root[data-target-selection-name=\"sfdc\\:TabDefinition\\.standard-Quote\"] > a"
+      ],
+      "tag": "a",
+      "type": null,
+      "url": "https://firstchair-b-dev-ed.develop.lightning.force.com/lightning/o/Quote/list?filterName=__Recent"
+    },
+    "kind": "click",
+    "screenshot": "screenshots/step-001.jpg",
+    "step": 1,
+    "timestamp": "2026-09-08T18:58:39.938Z"
+  },
+  {
+    "detail": "click",
+    "element": {
+      "classes": [
+        "slds-truncate"
+      ],
+      "dataAttrs": {
+        "data-navigation": "enable"
+      },
+      "id": null,
+      "label": "TESTY A123123 X6 123",
+      "name": null,
+      "role": null,
+      "selector": "th > span > div > lightning-primitive-custom-cell > lst-output-lookup > force-lookup > div > a",
+      "selectorPath": [
+        "th > span > div > lightning-primitive-custom-cell > lst-output-lookup > force-lookup > div > a"
+      ],
+      "tag": "a",
+      "type": null,
+      "url": "https://firstchair-b-dev-ed.develop.lightning.force.com/lightning/o/Quote/list?filterName=__Recent"
+    },
+    "kind": "click",
+    "screenshot": "screenshots/step-002.jpg",
+    "step": 2,
+    "timestamp": "2026-09-08T18:58:45.982Z"
+  },
+  {
+    "detail": "click",
+    "element": {
+      "classes": [
+        "tabHeader",
+        "slds-path__link"
+      ],
+      "dataAttrs": {
+        "data-aura-rendered-by": "1002:0",
+        "data-refid": "tab-name",
+        "data-tab-name": "Rejected"
+      },
+      "id": null,
+      "label": "Rejected",
+      "name": null,
+      "role": "option",
+      "selector": "li[data-target-selection-name=\"rejectedPathTab\"] > a",
+      "selectorPath": [
+        "li[data-target-selection-name=\"rejectedPathTab\"] > a"
+      ],
+      "tag": "a",
+      "type": null,
+      "url": "https://firstchair-b-dev-ed.develop.lightning.force.com/lightning/r/Quote/0Q0ak000003DvTNCA0/view"
+    },
+    "kind": "click",
+    "screenshot": "screenshots/step-003.jpg",
+    "step": 3,
+    "timestamp": "2026-09-08T18:58:51.757Z"
+  },
+  {
+    "detail": "click",
+    "element": {
+      "classes": [
+        "tabHeader",
+        "slds-path__link"
+      ],
+      "dataAttrs": {
+        "data-aura-rendered-by": "1013:0",
+        "data-refid": "tab-name",
+        "data-tab-name": "Presented"
+      },
+      "id": null,
+      "label": "Presented",
+      "name": null,
+      "role": "option",
+      "selector": "li[data-target-selection-name=\"presentedPathTab\"] > a",
+      "selectorPath": [
+        "li[data-target-selection-name=\"presentedPathTab\"] > a"
+      ],
+      "tag": "a",
+      "type": null,
+      "url": "https://firstchair-b-dev-ed.develop.lightning.force.com/lightning/r/Quote/0Q0ak000003DvTNCA0/view"
+    },
+    "kind": "click",
+    "screenshot": "screenshots/step-004.jpg",
+    "step": 4,
+    "timestamp": "2026-09-08T18:58:53.111Z"
+  },
+  {
+    "detail": "click",
+    "element": {
+      "classes": [
+        "slds-button",
+        "slds-button_brand",
+        "slds-path__mark-complete",
+        "stepAction",
+        "active",
+        "uiButton"
+      ],
+      "dataAttrs": {
+        "data-aura-class": "uiButton",
+        "data-aura-rendered-by": "922:0"
+      },
+      "id": null,
+      "label": "Mark as Current Status",
+      "name": null,
+      "role": null,
+      "selector": "div[data-target-selection-name=\"\\36 8a6b6d7f21547b99aa51ffd2ea8592a\"] > button",
+      "selectorPath": [
+        "div[data-target-selection-name=\"\\36 8a6b6d7f21547b99aa51ffd2ea8592a\"] > button"
+      ],
+      "tag": "button",
+      "type": "button",
+      "url": "https://firstchair-b-dev-ed.develop.lightning.force.com/lightning/r/Quote/0Q0ak000003DvTNCA0/view"
+    },
+    "kind": "click",
+    "screenshot": "screenshots/step-005.jpg",
+    "step": 5,
+    "timestamp": "2026-09-08T18:58:54.327Z"
+  },
+  {
+    "detail": "click",
+    "element": {
+      "classes": [
+        "tabHeader",
+        "slds-path__link"
+      ],
+      "dataAttrs": {
+        "data-aura-rendered-by": "1183:0",
+        "data-refid": "tab-name",
+        "data-tab-name": "Accepted"
+      },
+      "id": null,
+      "label": "Accepted",
+      "name": null,
+      "role": "option",
+      "selector": "ul[aria-label=\"Path\\ Options\"] > li:nth-of-type(7) > a",
+      "selectorPath": [
+        "ul[aria-label=\"Path\\ Options\"] > li:nth-of-type(7) > a"
+      ],
+      "tag": "a",
+      "type": null,
+      "url": "https://firstchair-b-dev-ed.develop.lightning.force.com/lightning/r/Quote/0Q0ak000003DvTNCA0/view"
+    },
+    "kind": "click",
+    "screenshot": "screenshots/step-006.jpg",
+    "step": 6,
+    "timestamp": "2026-09-08T18:58:57.177Z"
+  },
+  {
+    "detail": "click",
+    "element": {
+      "classes": [
+        "slds-button",
+        "slds-button_brand",
+        "slds-path__mark-complete",
+        "stepAction",
+        "active",
+        "uiButton"
+      ],
+      "dataAttrs": {
+        "data-aura-class": "uiButton",
+        "data-aura-rendered-by": "922:0"
+      },
+      "id": null,
+      "label": "Mark as Current Status",
+      "name": null,
+      "role": null,
+      "selector": "div[data-target-selection-name=\"\\36 8a6b6d7f21547b99aa51ffd2ea8592a\"] > button",
+      "selectorPath": [
+        "div[data-target-selection-name=\"\\36 8a6b6d7f21547b99aa51ffd2ea8592a\"] > button"
+      ],
+      "tag": "button",
+      "type": "button",
+      "url": "https://firstchair-b-dev-ed.develop.lightning.force.com/lightning/r/Quote/0Q0ak000003DvTNCA0/view"
+    },
+    "kind": "click",
+    "screenshot": "screenshots/step-007.jpg",
+    "step": 7,
+    "timestamp": "2026-09-08T18:58:58.216Z"
+  },
+  {
+    "detail": "click",
+    "element": {
+      "classes": [
+        "slds-button",
+        "slds-button_neutral"
+      ],
+      "dataAttrs": {},
+      "id": null,
+      "label": "Browse Catalogs",
+      "name": "BrowseCatalog",
+      "role": null,
+      "selector": "button[name=\"BrowseCatalog\"]",
+      "selectorPath": [
+        "button[name=\"BrowseCatalog\"]"
+      ],
+      "tag": "button",
+      "type": "button",
+      "url": "https://firstchair-b-dev-ed.develop.lightning.force.com/lightning/r/Quote/0Q0ak000003DvTNCA0/view"
+    },
+    "kind": "click",
+    "screenshot": "screenshots/step-008.jpg",
+    "step": 8,
+    "timestamp": "2026-09-08T18:59:00.300Z"
+  },
+  {
+    "detail": "click",
+    "element": {
+      "classes": [],
+      "dataAttrs": {
+        "data-action-triggers": "space",
+        "data-navigation": "enable"
+      },
+      "id": "primitive-checkbox-radio-id-1588",
+      "label": "Select Item 3",
+      "name": "lgt-datatable-8-options",
+      "role": null,
+      "selector": "div > table > tbody > tr:nth-of-type(3) > td:nth-of-type(1) > lightning-primitive-cell-checkbox > span > input",
+      "selectorPath": [
+        "div > table > tbody > tr:nth-of-type(3) > td:nth-of-type(1) > lightning-primitive-cell-checkbox > span > input"
+      ],
+      "tag": "input",
+      "type": "radio",
+      "url": "https://firstchair-b-dev-ed.develop.lightning.force.com/lightning/r/Quote/0Q0ak000003DvTNCA0/view"
+    },
+    "kind": "click",
+    "screenshot": "screenshots/step-009.jpg",
+    "step": 9,
+    "timestamp": "2026-09-08T18:59:04.685Z"
+  },
+  {
+    "detail": "on",
+    "element": {
+      "classes": [],
+      "dataAttrs": {
+        "data-action-triggers": "space",
+        "data-navigation": "enable"
+      },
+      "id": "primitive-checkbox-radio-id-1588",
+      "label": "Select Item 3",
+      "name": "lgt-datatable-8-options",
+      "role": null,
+      "selector": "div > table > tbody > tr:nth-of-type(3) > td:nth-of-type(1) > lightning-primitive-cell-checkbox > span > input",
+      "selectorPath": [
+        "div > table > tbody > tr:nth-of-type(3) > td:nth-of-type(1) > lightning-primitive-cell-checkbox > span > input"
+      ],
+      "tag": "input",
+      "type": "radio",
+      "url": "https://firstchair-b-dev-ed.develop.lightning.force.com/lightning/r/Quote/0Q0ak000003DvTNCA0/view"
+    },
+    "kind": "type",
+    "step": 10,
+    "timestamp": "2026-09-08T18:59:07.870Z"
+  },
+  {
+    "detail": "click",
+    "element": {
+      "classes": [
+        "panel",
+        "slds-modal",
+        "slds-modal--large",
+        "slds-fade-in-open"
+      ],
+      "dataAttrs": {
+        "data-aura-rendered-by": "1356:0"
+      },
+      "id": null,
+      "label": "Cancel and close\nLoading",
+      "name": null,
+      "role": "dialog",
+      "selector": "html > body > div:nth-of-type(5) > div:nth-of-type(2) > div > div:nth-of-type(2)",
+      "selectorPath": [
+        "html > body > div:nth-of-type(5) > div:nth-of-type(2) > div > div:nth-of-type(2)"
+      ],
+      "tag": "div",
+      "type": null,
+      "url": "https://firstchair-b-dev-ed.develop.lightning.force.com/lightning/r/Quote/0Q0ak000003DvTNCA0/view"
+    },
+    "kind": "click",
+    "screenshot": "screenshots/step-011.jpg",
+    "step": 11,
+    "timestamp": "2026-09-08T18:59:11.721Z"
+  },
+  {
+    "detail": "click",
+    "element": {
+      "classes": [],
+      "dataAttrs": {},
+      "id": "checkbox-1766",
+      "label": "Basic Training",
+      "name": null,
+      "role": null,
+      "selector": "label::Basic Training",
+      "selectorPath": [
+        "label::Basic Training"
+      ],
+      "tag": "input",
+      "type": "checkbox",
+      "url": "https://firstchair-b-dev-ed.develop.lightning.force.com/lightning/r/Quote/0Q0ak000003DvTNCA0/view"
+    },
+    "kind": "click",
+    "screenshot": "screenshots/step-012.jpg",
+    "step": 12,
+    "timestamp": "2026-09-08T18:59:21.978Z"
+  },
+  {
+    "detail": "",
+    "element": {
+      "classes": [],
+      "dataAttrs": {},
+      "id": "checkbox-1766",
+      "label": "Basic Training",
+      "name": null,
+      "role": null,
+      "selector": "label::Basic Training",
+      "selectorPath": [
+        "label::Basic Training"
+      ],
+      "tag": "input",
+      "type": "checkbox",
+      "url": "https://firstchair-b-dev-ed.develop.lightning.force.com/lightning/r/Quote/0Q0ak000003DvTNCA0/view"
+    },
+    "kind": "type",
+    "step": 13,
+    "timestamp": "2026-09-08T18:59:25.981Z"
+  },
+  {
+    "detail": "click",
+    "element": {
+      "classes": [
+        "slds-button",
+        "slds-button_outline-brand"
+      ],
+      "dataAttrs": {},
+      "id": null,
+      "label": "Add",
+      "name": "Add",
+      "role": null,
+      "selector": "slot > lightning-layout > slot > lightning-layout-item:nth-of-type(4) > slot > div > lightning-button > button",
+      "selectorPath": [
+        "slot > lightning-layout > slot > lightning-layout-item:nth-of-type(4) > slot > div > lightning-button > button"
+      ],
+      "tag": "button",
+      "type": "button",
+      "url": "https://firstchair-b-dev-ed.develop.lightning.force.com/lightning/r/Quote/0Q0ak000003DvTNCA0/view"
+    },
+    "kind": "click",
+    "screenshot": "screenshots/step-014.jpg",
+    "step": 14,
+    "timestamp": "2026-09-08T18:59:27.778Z"
+  },
+  {
+    "detail": "click",
+    "element": {
+      "classes": [
+        "slds-button",
+        "slds-button_icon",
+        "slds-modal__close",
+        "closeIcon",
+        "slds-button_icon-bare"
+      ],
+      "dataAttrs": {
+        "data-aura-rendered-by": "1346:0"
+      },
+      "id": null,
+      "label": "Cancel and close",
+      "name": null,
+      "role": null,
+      "selector": "body > div:nth-of-type(5) > div:nth-of-type(2) > div > div:nth-of-type(2) > div > div:nth-of-type(1) > button",
+      "selectorPath": [
+        "body > div:nth-of-type(5) > div:nth-of-type(2) > div > div:nth-of-type(2) > div > div:nth-of-type(1) > button"
+      ],
+      "tag": "button",
+      "type": "button",
+      "url": "https://firstchair-b-dev-ed.develop.lightning.force.com/lightning/r/Quote/0Q0ak000003DvTNCA0/view"
+    },
+    "kind": "click",
+    "screenshot": "screenshots/step-015.jpg",
+    "step": 15,
+    "timestamp": "2026-09-08T18:59:32.656Z"
+  },
+  {
+    "detail": "click",
+    "element": {
+      "classes": [
+        "slds-tabs_default__content",
+        "slds-show"
+      ],
+      "dataAttrs": {},
+      "id": "tab-2",
+      "label": "Quote Summary\nExpand Summary\nSubtotal\nUSD 40,099.99\nDiscount\n0%\nGrand Total\nUSD ",
+      "name": null,
+      "role": "tabpanel",
+      "selector": "#tab-2",
+      "selectorPath": [
+        "#tab-2"
+      ],
+      "tag": "flexipage-tab2",
+      "type": null,
+      "url": "https://firstchair-b-dev-ed.develop.lightning.force.com/lightning/r/Quote/0Q0ak000003DvTNCA0/view"
+    },
+    "kind": "click",
+    "screenshot": "screenshots/step-016.jpg",
+    "step": 16,
+    "timestamp": "2026-09-08T18:59:36.881Z"
+  },
+  {
+    "detail": "click",
+    "element": {
+      "classes": [
+        "slds-button",
+        "slds-button_icon-border-filled",
+        "fix-slds-button_icon-border-filled",
+        "slds-button_last"
+      ],
+      "dataAttrs": {},
+      "id": null,
+      "label": "Show more actions",
+      "name": null,
+      "role": null,
+      "selector": "div:nth-of-type(3) > div > div > runtime_platform_actions-actions-ribbon > ul > li:nth-of-type(4) > lightning-button-menu > button",
+      "selectorPath": [
+        "div:nth-of-type(3) > div > div > runtime_platform_actions-actions-ribbon > ul > li:nth-of-type(4) > lightning-button-menu > button"
+      ],
+      "tag": "button",
+      "type": "button",
+      "url": "https://firstchair-b-dev-ed.develop.lightning.force.com/lightning/r/Quote/0Q0ak000003DvTNCA0/view"
+    },
+    "kind": "click",
+    "screenshot": "screenshots/step-017.jpg",
+    "step": 17,
+    "timestamp": "2026-09-08T18:59:43.261Z"
+  },
+  {
+    "detail": "click",
+    "element": {
+      "classes": [
+        "center",
+        "oneCenterStage",
+        "lafSinglePaneWindowManager"
+      ],
+      "dataAttrs": {
+        "data-aura-class": "lafSinglePaneWindowManager",
+        "data-aura-rendered-by": "392:84;a"
+      },
+      "id": null,
+      "label": "Quote\nTESTY A123123 X6 123\nCreate Order\nBrowse Catalogs\nNew Contact\nShow more ac",
+      "name": null,
+      "role": null,
+      "selector": "#brandBand_2 > div > div",
+      "selectorPath": [
+        "#brandBand_2 > div > div"
+      ],
+      "tag": "div",
+      "type": null,
+      "url": "https://firstchair-b-dev-ed.develop.lightning.force.com/lightning/r/Quote/0Q0ak000003DvTNCA0/view"
+    },
+    "kind": "click",
+    "screenshot": "screenshots/step-018.jpg",
+    "step": 18,
+    "timestamp": "2026-09-08T18:59:46.595Z"
+  },
+  {
+    "detail": "click",
+    "element": {
+      "classes": [],
+      "dataAttrs": {},
+      "id": "single-order-2023",
+      "label": "Create Single Order\nCreate a single order from the quote.",
+      "name": "orderCreationMethodPicker",
+      "role": null,
+      "selector": "label::Create Single OrderCreate a single order from the quote.",
+      "selectorPath": [
+        "label::Create Single OrderCreate a single order from the quote."
+      ],
+      "tag": "input",
+      "type": "radio",
+      "url": "https://firstchair-b-dev-ed.develop.lightning.force.com/lightning/r/Quote/0Q0ak000003DvTNCA0/view"
+    },
+    "kind": "click",
+    "screenshot": "screenshots/step-019.jpg",
+    "step": 19,
+    "timestamp": "2026-09-08T19:00:02.202Z"
+  },
+  {
+    "detail": "click",
+    "element": {
+      "classes": [
+        "slds-button",
+        "slds-button_brand"
+      ],
+      "dataAttrs": {},
+      "id": null,
+      "label": "Finish",
+      "name": null,
+      "role": null,
+      "selector": "lightning-flow > section > flowruntime-flow > flowruntime-navigation-bar > footer > div > lightning-button > button",
+      "selectorPath": [
+        "lightning-flow > section > flowruntime-flow > flowruntime-navigation-bar > footer > div > lightning-button > button"
+      ],
+      "tag": "button",
+      "type": "button",
+      "url": "https://firstchair-b-dev-ed.develop.lightning.force.com/lightning/r/Quote/0Q0ak000003DvTNCA0/view"
+    },
+    "kind": "click",
+    "screenshot": "screenshots/step-020.jpg",
+    "step": 20,
+    "timestamp": "2026-09-08T19:00:08.076Z"
+  },
+  {
+    "detail": "click",
+    "element": {
+      "classes": [
+        "forceActionLink"
+      ],
+      "dataAttrs": {
+        "data-aura-class": "forceActionLink",
+        "data-aura-rendered-by": "1444:0"
+      },
+      "id": null,
+      "label": "00000177",
+      "name": null,
+      "role": null,
+      "selector": "div[data-key=\"success\"] > div > div:nth-of-type(1) > div > div > span > a",
+      "selectorPath": [
+        "div[data-key=\"success\"] > div > div:nth-of-type(1) > div > div > span > a"
+      ],
+      "tag": "a",
+      "type": null,
+      "url": "https://firstchair-b-dev-ed.develop.lightning.force.com/lightning/r/Quote/0Q0ak000003DvTNCA0/view"
+    },
+    "kind": "click",
+    "screenshot": "screenshots/step-021.jpg",
+    "step": 21,
+    "timestamp": "2026-09-08T19:00:27.318Z"
+  },
+  {
+    "detail": "click",
+    "element": {
+      "classes": [
+        "forceActionLink"
+      ],
+      "dataAttrs": {
+        "data-aura-class": "forceActionLink",
+        "data-aura-rendered-by": "1444:0"
+      },
+      "id": null,
+      "label": "00000177",
+      "name": null,
+      "role": null,
+      "selector": "div[data-key=\"success\"] > div > div:nth-of-type(1) > div > div > span > a",
+      "selectorPath": [
+        "div[data-key=\"success\"] > div > div:nth-of-type(1) > div > div > span > a"
+      ],
+      "tag": "a",
+      "type": null,
+      "url": "https://firstchair-b-dev-ed.develop.lightning.force.com/lightning/r/Quote/0Q0ak000003DvTNCA0/view"
+    },
+    "kind": "click",
+    "screenshot": "screenshots/step-022.jpg",
+    "step": 22,
+    "timestamp": "2026-09-08T19:00:30.478Z"
+  }
+]
