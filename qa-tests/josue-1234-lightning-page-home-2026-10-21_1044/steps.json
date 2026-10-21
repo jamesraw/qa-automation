@@ -1,0 +1,1105 @@
+[
+  {
+    "detail": "click",
+    "element": {
+      "classes": [
+        "slds-context-bar__label-action",
+        "slds-p-left_xx-small"
+      ],
+      "dataAttrs": {
+        "data-aura-rendered-by": "325:0;p"
+      },
+      "id": null,
+      "label": "Home",
+      "name": null,
+      "role": null,
+      "selector": "div[aria-label=\"Global\"] > div:nth-of-type(1) > a",
+      "selectorPath": [
+        "div[aria-label=\"Global\"] > div:nth-of-type(1) > a"
+      ],
+      "tag": "a",
+      "type": null,
+      "url": "https://firstchair-hls-test-dev-ed.develop.lightning.force.com/lightning/page/home"
+    },
+    "kind": "click",
+    "screenshot": "screenshots/step-001.jpg",
+    "step": 1,
+    "timestamp": "2026-10-05T19:09:35.242Z"
+  },
+  {
+    "detail": "click",
+    "element": {
+      "classes": [
+        "c-virtual_list__item"
+      ],
+      "dataAttrs": {
+        "data-feat": "message",
+        "data-item-key": "1791215419.555439",
+        "data-qa": "virtual-list-item"
+      },
+      "id": "message-list_1791215419.555439",
+      "label": "Newton\nAPP  12:50 PM\n\nHealth Cloud quedó enriquecido y validado.\n• 8 Tasks abier",
+      "name": null,
+      "role": "listitem",
+      "selector": "div > div:nth-of-type(2) > div > div > div:nth-of-type(1) > div > div:nth-of-type(1) > div:nth-of-type(4)",
+      "selectorPath": [
+        "div > div:nth-of-type(2) > div > div > div:nth-of-type(1) > div > div:nth-of-type(1) > div:nth-of-type(4)"
+      ],
+      "tag": "div",
+      "type": null,
+      "url": "https://app.slack.com/client/T05H74R5EGL/activity-inbox"
+    },
+    "kind": "click",
+    "screenshot": "screenshots/step-002.jpg",
+    "step": 2,
+    "timestamp": "2026-10-05T19:09:42.895Z"
+  },
+  {
+    "detail": "click",
+    "element": {
+      "classes": [],
+      "dataAttrs": {},
+      "id": null,
+      "label": null,
+      "name": null,
+      "role": null,
+      "selector": "html > body > a",
+      "selectorPath": [
+        "html > body > a"
+      ],
+      "tag": "a",
+      "type": null,
+      "url": "https://app.slack.com/client/T05H74R5EGL/activity-inbox"
+    },
+    "kind": "click",
+    "screenshot": null,
+    "step": 3,
+    "timestamp": "2026-10-05T19:09:45.867Z"
+  },
+  {
+    "detail": "click",
+    "element": {
+      "classes": [
+        "c-link"
+      ],
+      "dataAttrs": {
+        "data-stringify-link": "https://firstchair-hls-test-dev-ed.develop.my.salesforce.com/lightning/app/standard__HealthCloudConsole/o/Task/list?filterName=00Biw000002EUrnEAG"
+      },
+      "id": null,
+      "label": "Abrir Open Tasks",
+      "name": null,
+      "role": null,
+      "selector": "div > div > div > div > span:nth-of-type(9) > span > span > a",
+      "selectorPath": [
+        "div > div > div > div > span:nth-of-type(9) > span > span > a"
+      ],
+      "tag": "a",
+      "type": null,
+      "url": "https://app.slack.com/client/T05H74R5EGL/activity-inbox"
+    },
+    "kind": "click",
+    "screenshot": "screenshots/step-004.jpg",
+    "step": 4,
+    "timestamp": "2026-10-05T19:09:45.904Z"
+  },
+  {
+    "detail": "click",
+    "element": {
+      "classes": [
+        "slds-button",
+        "slds-button_icon",
+        "slds-button_icon-small",
+        "slds-float_right",
+        "slds-popover__close",
+        "slds-button_icon-bare",
+        "slds-button_icon-inverse"
+      ],
+      "dataAttrs": {
+        "data-aura-rendered-by": "673:0"
+      },
+      "id": null,
+      "label": "Close",
+      "name": null,
+      "role": null,
+      "selector": "body > div:nth-of-type(5) > div:nth-of-type(2) > div > div > div:nth-of-type(1) > section > button",
+      "selectorPath": [
+        "body > div:nth-of-type(5) > div:nth-of-type(2) > div > div > div:nth-of-type(1) > section > button"
+      ],
+      "tag": "button",
+      "type": "button",
+      "url": "https://firstchair-hls-test-dev-ed.develop.lightning.force.com/lightning/o/Task/list?filterName=00Biw000002EUrnEAG"
+    },
+    "kind": "click",
+    "screenshot": "screenshots/step-005.jpg",
+    "step": 5,
+    "timestamp": "2026-10-05T19:09:55.660Z"
+  },
+  {
+    "detail": "click",
+    "element": {
+      "classes": [
+        "oneWorkspace",
+        "active",
+        "navexWorkspace"
+      ],
+      "dataAttrs": {
+        "data-aura-class": "navexWorkspace",
+        "data-aura-rendered-by": "395:0"
+      },
+      "id": "387:0",
+      "label": "Tasks\nOpen Tasks\nSelect a List View: Tasks\nPin this list view.\nShow more actions",
+      "name": null,
+      "role": null,
+      "selector": "div:nth-of-type(1) > section > div:nth-of-type(1) > div > div:nth-of-type(2) > div:nth-of-type(2) > section > div",
+      "selectorPath": [
+        "div:nth-of-type(1) > section > div:nth-of-type(1) > div > div:nth-of-type(2) > div:nth-of-type(2) > section > div"
+      ],
+      "tag": "div",
+      "type": null,
+      "url": "https://firstchair-hls-test-dev-ed.develop.lightning.force.com/lightning/o/Task/list?filterName=00Biw000002EUrnEAG"
+    },
+    "kind": "click",
+    "screenshot": "screenshots/step-006.jpg",
+    "step": 6,
+    "timestamp": "2026-10-05T19:09:56.684Z"
+  },
+  {
+    "detail": "click",
+    "element": {
+      "classes": [
+        "tabHeader"
+      ],
+      "dataAttrs": {
+        "data-aura-rendered-by": "1151:0",
+        "data-tab-name": "relatedListsTab",
+        "data-target-selection-name": "relatedListsTabTab"
+      },
+      "id": null,
+      "label": "Related",
+      "name": null,
+      "role": "tab",
+      "selector": "a[data-target-selection-name=\"relatedListsTabTab\"]",
+      "selectorPath": [
+        "a[data-target-selection-name=\"relatedListsTabTab\"]"
+      ],
+      "tag": "a",
+      "type": null,
+      "url": "https://firstchair-hls-test-dev-ed.develop.lightning.force.com/lightning/o/Task/list?filterName=00Biw000002EUrnEAG"
+    },
+    "kind": "click",
+    "screenshot": "screenshots/step-007.jpg",
+    "step": 7,
+    "timestamp": "2026-10-05T19:09:57.612Z"
+  },
+  {
+    "detail": "click",
+    "element": {
+      "classes": [
+        "tabHeader"
+      ],
+      "dataAttrs": {
+        "data-aura-rendered-by": "1141:0",
+        "data-tab-name": "detailTab",
+        "data-target-selection-name": "detailTabTab"
+      },
+      "id": null,
+      "label": "Details",
+      "name": null,
+      "role": "tab",
+      "selector": "a[data-target-selection-name=\"detailTabTab\"]",
+      "selectorPath": [
+        "a[data-target-selection-name=\"detailTabTab\"]"
+      ],
+      "tag": "a",
+      "type": null,
+      "url": "https://firstchair-hls-test-dev-ed.develop.lightning.force.com/lightning/o/Task/list?filterName=00Biw000002EUrnEAG"
+    },
+    "kind": "click",
+    "screenshot": "screenshots/step-008.jpg",
+    "step": 8,
+    "timestamp": "2026-10-05T19:09:58.511Z"
+  },
+  {
+    "detail": "click",
+    "element": {
+      "classes": [
+        "oneWorkspace",
+        "active",
+        "navexWorkspace"
+      ],
+      "dataAttrs": {
+        "data-aura-class": "navexWorkspace",
+        "data-aura-rendered-by": "395:0"
+      },
+      "id": "387:0",
+      "label": "Tasks\nOpen Tasks\nSelect a List View: Tasks\nPin this list view.\nShow more actions",
+      "name": null,
+      "role": null,
+      "selector": "div:nth-of-type(1) > section > div:nth-of-type(1) > div > div:nth-of-type(2) > div:nth-of-type(2) > section > div",
+      "selectorPath": [
+        "div:nth-of-type(1) > section > div:nth-of-type(1) > div > div:nth-of-type(2) > div:nth-of-type(2) > section > div"
+      ],
+      "tag": "div",
+      "type": null,
+      "url": "https://firstchair-hls-test-dev-ed.develop.lightning.force.com/lightning/o/Task/list?filterName=00Biw000002EUrnEAG"
+    },
+    "kind": "click",
+    "screenshot": "screenshots/step-009.jpg",
+    "step": 9,
+    "timestamp": "2026-10-05T19:10:00.308Z"
+  },
+  {
+    "detail": "click",
+    "element": {
+      "classes": [
+        "oneWorkspace",
+        "active",
+        "navexWorkspace"
+      ],
+      "dataAttrs": {
+        "data-aura-class": "navexWorkspace",
+        "data-aura-rendered-by": "395:0"
+      },
+      "id": "387:0",
+      "label": "Tasks\nOpen Tasks\nSelect a List View: Tasks\nPin this list view.\nShow more actions",
+      "name": null,
+      "role": null,
+      "selector": "div:nth-of-type(1) > section > div:nth-of-type(1) > div > div:nth-of-type(2) > div:nth-of-type(2) > section > div",
+      "selectorPath": [
+        "div:nth-of-type(1) > section > div:nth-of-type(1) > div > div:nth-of-type(2) > div:nth-of-type(2) > section > div"
+      ],
+      "tag": "div",
+      "type": null,
+      "url": "https://firstchair-hls-test-dev-ed.develop.lightning.force.com/lightning/o/Task/list?filterName=00Biw000002EUrnEAG"
+    },
+    "kind": "click",
+    "screenshot": "screenshots/step-010.jpg",
+    "step": 10,
+    "timestamp": "2026-10-05T19:10:00.909Z"
+  },
+  {
+    "detail": "click",
+    "element": {
+      "classes": [
+        "closeBtn",
+        "slds-button",
+        "slds-button_icon",
+        "slds-button_icon-xxx-small"
+      ],
+      "dataAttrs": {
+        "data-aura-rendered-by": "1936:0"
+      },
+      "id": null,
+      "label": "Close",
+      "name": null,
+      "role": null,
+      "selector": "html > body > div:nth-of-type(5) > div:nth-of-type(2) > div > div:nth-of-type(1) > div:nth-of-type(1) > button",
+      "selectorPath": [
+        "html > body > div:nth-of-type(5) > div:nth-of-type(2) > div > div:nth-of-type(1) > div:nth-of-type(1) > button"
+      ],
+      "tag": "button",
+      "type": null,
+      "url": "https://firstchair-hls-test-dev-ed.develop.lightning.force.com/lightning/o/Task/list?filterName=00Biw000002EUrnEAG"
+    },
+    "kind": "click",
+    "screenshot": "screenshots/step-011.jpg",
+    "step": 11,
+    "timestamp": "2026-10-05T19:10:02.232Z"
+  },
+  {
+    "detail": "click",
+    "element": {
+      "classes": [
+        "oneWorkspace",
+        "active",
+        "navexWorkspace"
+      ],
+      "dataAttrs": {
+        "data-aura-class": "navexWorkspace",
+        "data-aura-rendered-by": "395:0"
+      },
+      "id": "387:0",
+      "label": "Tasks\nOpen Tasks\nSelect a List View: Tasks\nPin this list view.\nShow more actions",
+      "name": null,
+      "role": null,
+      "selector": "div:nth-of-type(1) > section > div:nth-of-type(1) > div > div:nth-of-type(2) > div:nth-of-type(2) > section > div",
+      "selectorPath": [
+        "div:nth-of-type(1) > section > div:nth-of-type(1) > div > div:nth-of-type(2) > div:nth-of-type(2) > section > div"
+      ],
+      "tag": "div",
+      "type": null,
+      "url": "https://firstchair-hls-test-dev-ed.develop.lightning.force.com/lightning/o/Task/list?filterName=00Biw000002EUrnEAG"
+    },
+    "kind": "click",
+    "screenshot": "screenshots/step-012.jpg",
+    "step": 12,
+    "timestamp": "2026-10-05T19:10:03.068Z"
+  },
+  {
+    "detail": "click",
+    "element": {
+      "classes": [],
+      "dataAttrs": {},
+      "id": null,
+      "label": null,
+      "name": null,
+      "role": null,
+      "selector": "html > body > a",
+      "selectorPath": [
+        "html > body > a"
+      ],
+      "tag": "a",
+      "type": null,
+      "url": "https://app.slack.com/client/T05H74R5EGL/activity-inbox"
+    },
+    "kind": "click",
+    "screenshot": null,
+    "step": 13,
+    "timestamp": "2026-10-05T19:10:09.464Z"
+  },
+  {
+    "detail": "click",
+    "element": {
+      "classes": [
+        "slds-tabs_default__link"
+      ],
+      "dataAttrs": {
+        "data-label": "Care Plan",
+        "data-tab-value": "carePlanTab"
+      },
+      "id": "carePlanTab__item",
+      "label": "Care Plan",
+      "name": null,
+      "role": "tab",
+      "selector": "#carePlanTab__item",
+      "selectorPath": [
+        "#carePlanTab__item"
+      ],
+      "tag": "a",
+      "type": null,
+      "url": "https://firstchair-hls-test-dev-ed.develop.lightning.force.com/lightning/r/Account/001iw000006668EAAQ/view"
+    },
+    "kind": "click",
+    "screenshot": "screenshots/step-014.jpg",
+    "step": 14,
+    "timestamp": "2026-10-05T19:10:23.683Z"
+  },
+  {
+    "detail": "click",
+    "element": {
+      "classes": [
+        "slds-tabs_default__link"
+      ],
+      "dataAttrs": {
+        "data-label": "Care Gap",
+        "data-tab-value": "careGapTab"
+      },
+      "id": "careGapTab__item",
+      "label": "Care Gap",
+      "name": null,
+      "role": "tab",
+      "selector": "#careGapTab__item",
+      "selectorPath": [
+        "#careGapTab__item"
+      ],
+      "tag": "a",
+      "type": null,
+      "url": "https://firstchair-hls-test-dev-ed.develop.lightning.force.com/lightning/r/Account/001iw000006668EAAQ/view"
+    },
+    "kind": "click",
+    "screenshot": "screenshots/step-015.jpg",
+    "step": 15,
+    "timestamp": "2026-10-05T19:10:25.942Z"
+  },
+  {
+    "detail": "click",
+    "element": {
+      "classes": [
+        "slds-tabs_default__link"
+      ],
+      "dataAttrs": {
+        "data-label": "Household",
+        "data-tab-value": "arcGraph"
+      },
+      "id": "arcGraph__item",
+      "label": "Household",
+      "name": null,
+      "role": "tab",
+      "selector": "#arcGraph__item",
+      "selectorPath": [
+        "#arcGraph__item"
+      ],
+      "tag": "a",
+      "type": null,
+      "url": "https://firstchair-hls-test-dev-ed.develop.lightning.force.com/lightning/r/Account/001iw000006668EAAQ/view"
+    },
+    "kind": "click",
+    "screenshot": "screenshots/step-016.jpg",
+    "step": 16,
+    "timestamp": "2026-10-05T19:10:26.781Z"
+  },
+  {
+    "detail": "click",
+    "element": {
+      "classes": [
+        "slds-tabs_default__link"
+      ],
+      "dataAttrs": {
+        "data-label": "Details",
+        "data-tab-value": "detailTab"
+      },
+      "id": "detailTab__item",
+      "label": "Details",
+      "name": null,
+      "role": "tab",
+      "selector": "#detailTab__item",
+      "selectorPath": [
+        "#detailTab__item"
+      ],
+      "tag": "a",
+      "type": null,
+      "url": "https://firstchair-hls-test-dev-ed.develop.lightning.force.com/lightning/r/Account/001iw000006668EAAQ/view"
+    },
+    "kind": "click",
+    "screenshot": "screenshots/step-017.jpg",
+    "step": 17,
+    "timestamp": "2026-10-05T19:10:28.505Z"
+  },
+  {
+    "detail": "click",
+    "element": {
+      "classes": [
+        "slds-action_item"
+      ],
+      "dataAttrs": {
+        "data-action-focus": ""
+      },
+      "id": null,
+      "label": "Refresh allergy information",
+      "name": null,
+      "role": null,
+      "selector": "a[aria-label=\"Refresh\\ allergy\\ information\"]",
+      "selectorPath": [
+        "a[aria-label=\"Refresh\\ allergy\\ information\"]"
+      ],
+      "tag": "a",
+      "type": null,
+      "url": "https://firstchair-hls-test-dev-ed.develop.lightning.force.com/lightning/r/Account/001iw000006668EAAQ/view"
+    },
+    "kind": "click",
+    "screenshot": "screenshots/step-018.jpg",
+    "step": 18,
+    "timestamp": "2026-10-05T19:10:31.185Z"
+  },
+  {
+    "detail": "click",
+    "element": {
+      "classes": [],
+      "dataAttrs": {},
+      "id": null,
+      "label": null,
+      "name": null,
+      "role": null,
+      "selector": "html > body > a",
+      "selectorPath": [
+        "html > body > a"
+      ],
+      "tag": "a",
+      "type": null,
+      "url": "https://app.slack.com/client/T05H74R5EGL/activity-inbox"
+    },
+    "kind": "click",
+    "screenshot": null,
+    "step": 19,
+    "timestamp": "2026-10-05T19:10:40.691Z"
+  },
+  {
+    "detail": "click",
+    "element": {
+      "classes": [
+        "oneWorkspace",
+        "active",
+        "navexWorkspace"
+      ],
+      "dataAttrs": {
+        "data-aura-class": "navexWorkspace",
+        "data-aura-rendered-by": "428:0"
+      },
+      "id": "420:0",
+      "label": "Healthcare Provider\nHospital Central San Martin\nNew Contact\nNew Opportunity\nNew ",
+      "name": null,
+      "role": null,
+      "selector": "div:nth-of-type(1) > section > div:nth-of-type(1) > div > div:nth-of-type(2) > div:nth-of-type(2) > section > div",
+      "selectorPath": [
+        "div:nth-of-type(1) > section > div:nth-of-type(1) > div > div:nth-of-type(2) > div:nth-of-type(2) > section > div"
+      ],
+      "tag": "div",
+      "type": null,
+      "url": "https://firstchair-hls-test-dev-ed.develop.lightning.force.com/lightning/r/HealthcareProvider/0cmiw0000000qmbAAA/view"
+    },
+    "kind": "click",
+    "screenshot": "screenshots/step-020.jpg",
+    "step": 20,
+    "timestamp": "2026-10-05T19:10:47.961Z"
+  },
+  {
+    "detail": "click",
+    "element": {
+      "classes": [
+        "slds-tabs_default__link"
+      ],
+      "dataAttrs": {
+        "data-label": "Details",
+        "data-tab-value": "detailTab"
+      },
+      "id": "detailTab__item",
+      "label": "Details",
+      "name": null,
+      "role": "tab",
+      "selector": "#detailTab__item",
+      "selectorPath": [
+        "#detailTab__item"
+      ],
+      "tag": "a",
+      "type": null,
+      "url": "https://firstchair-hls-test-dev-ed.develop.lightning.force.com/lightning/r/HealthcareProvider/0cmiw0000000qmbAAA/view"
+    },
+    "kind": "click",
+    "screenshot": "screenshots/step-021.jpg",
+    "step": 21,
+    "timestamp": "2026-10-05T19:10:50.917Z"
+  },
+  {
+    "detail": "click",
+    "element": {
+      "classes": [
+        "c-link"
+      ],
+      "dataAttrs": {
+        "data-stringify-link": "https://firstchair-hls-test-dev-ed.develop.my.salesforce.com/lightning/app/standard__HealthCloudConsole/r/HealthcareProvider/0cmiw0000000qrRAAQ/view"
+      },
+      "id": null,
+      "label": "Abrir Dr. Martin Ruiz",
+      "name": null,
+      "role": null,
+      "selector": "div > div > div > div > span:nth-of-type(21) > span > span > a",
+      "selectorPath": [
+        "div > div > div > div > span:nth-of-type(21) > span > span > a"
+      ],
+      "tag": "a",
+      "type": null,
+      "url": "https://app.slack.com/client/T05H74R5EGL/activity-inbox"
+    },
+    "kind": "click",
+    "screenshot": "screenshots/step-022.jpg",
+    "step": 22,
+    "timestamp": "2026-10-05T19:10:56.794Z"
+  },
+  {
+    "detail": "click",
+    "element": {
+      "classes": [
+        "slds-tabs_default__link"
+      ],
+      "dataAttrs": {
+        "data-label": "Related",
+        "data-tab-value": "relatedListsTab"
+      },
+      "id": "relatedListsTab__item",
+      "label": "Related",
+      "name": null,
+      "role": "tab",
+      "selector": "#relatedListsTab__item",
+      "selectorPath": [
+        "#relatedListsTab__item"
+      ],
+      "tag": "a",
+      "type": null,
+      "url": "https://firstchair-hls-test-dev-ed.develop.lightning.force.com/lightning/r/HealthcareProvider/0cmiw0000000qrRAAQ/view"
+    },
+    "kind": "click",
+    "screenshot": "screenshots/step-023.jpg",
+    "step": 23,
+    "timestamp": "2026-10-05T19:11:02.838Z"
+  },
+  {
+    "detail": "click",
+    "element": {
+      "classes": [
+        "slds-tabs_default__link"
+      ],
+      "dataAttrs": {
+        "data-label": "Details",
+        "data-tab-value": "detailTab"
+      },
+      "id": "detailTab__item",
+      "label": "Details",
+      "name": null,
+      "role": "tab",
+      "selector": "#detailTab__item",
+      "selectorPath": [
+        "#detailTab__item"
+      ],
+      "tag": "a",
+      "type": null,
+      "url": "https://firstchair-hls-test-dev-ed.develop.lightning.force.com/lightning/r/HealthcareProvider/0cmiw0000000qrRAAQ/view"
+    },
+    "kind": "click",
+    "screenshot": "screenshots/step-024.jpg",
+    "step": 24,
+    "timestamp": "2026-10-05T19:11:04.471Z"
+  },
+  {
+    "detail": "click",
+    "element": {
+      "classes": [],
+      "dataAttrs": {},
+      "id": null,
+      "label": null,
+      "name": null,
+      "role": null,
+      "selector": "html > body > a",
+      "selectorPath": [
+        "html > body > a"
+      ],
+      "tag": "a",
+      "type": null,
+      "url": "https://app.slack.com/client/T05H74R5EGL/activity-inbox"
+    },
+    "kind": "click",
+    "screenshot": null,
+    "step": 25,
+    "timestamp": "2026-10-05T19:11:09.099Z"
+  },
+  {
+    "detail": "click",
+    "element": {
+      "classes": [
+        "c-link"
+      ],
+      "dataAttrs": {
+        "data-stringify-link": "https://firstchair-hls-test-dev-ed.develop.my.salesforce.com/lightning/r/HealthcarePractitionerFacility/0bSiw0000000USjEAM/view"
+      },
+      "id": null,
+      "label": "Hospital Central Facility",
+      "name": null,
+      "role": null,
+      "selector": "div > div > div > div > span:nth-of-type(26) > span > span > a",
+      "selectorPath": [
+        "div > div > div > div > span:nth-of-type(26) > span > span > a"
+      ],
+      "tag": "a",
+      "type": null,
+      "url": "https://app.slack.com/client/T05H74R5EGL/activity-inbox"
+    },
+    "kind": "click",
+    "screenshot": "screenshots/step-026.jpg",
+    "step": 26,
+    "timestamp": "2026-10-05T19:11:16.222Z"
+  },
+  {
+    "detail": "click",
+    "element": {
+      "classes": [
+        "slds-tabs_default__link"
+      ],
+      "dataAttrs": {
+        "data-label": "Details",
+        "data-tab-value": "detailTab"
+      },
+      "id": "detailTab__item",
+      "label": "Details",
+      "name": null,
+      "role": "tab",
+      "selector": "#detailTab__item",
+      "selectorPath": [
+        "#detailTab__item"
+      ],
+      "tag": "a",
+      "type": null,
+      "url": "https://firstchair-hls-test-dev-ed.develop.lightning.force.com/lightning/r/HealthcarePractitionerFacility/0bSiw0000000USjEAM/view"
+    },
+    "kind": "click",
+    "screenshot": "screenshots/step-027.jpg",
+    "step": 27,
+    "timestamp": "2026-10-05T19:11:24.456Z"
+  },
+  {
+    "detail": "click",
+    "element": {
+      "classes": [
+        "c-virtual_list__item"
+      ],
+      "dataAttrs": {
+        "data-feat": "message",
+        "data-item-key": "1791215419.555439",
+        "data-qa": "virtual-list-item"
+      },
+      "id": "message-list_1791215419.555439",
+      "label": "Newton\nAPP  12:50 PM\n\nHealth Cloud quedó enriquecido y validado.\n• 8 Tasks abier",
+      "name": null,
+      "role": "listitem",
+      "selector": "div > div:nth-of-type(2) > div > div > div:nth-of-type(1) > div > div:nth-of-type(1) > div:nth-of-type(4)",
+      "selectorPath": [
+        "div > div:nth-of-type(2) > div > div > div:nth-of-type(1) > div > div:nth-of-type(1) > div:nth-of-type(4)"
+      ],
+      "tag": "div",
+      "type": null,
+      "url": "https://app.slack.com/client/T05H74R5EGL/activity-inbox"
+    },
+    "kind": "click",
+    "screenshot": "screenshots/step-028.jpg",
+    "step": 28,
+    "timestamp": "2026-10-05T19:11:27.280Z"
+  },
+  {
+    "detail": "click",
+    "element": {
+      "classes": [],
+      "dataAttrs": {},
+      "id": null,
+      "label": null,
+      "name": null,
+      "role": null,
+      "selector": "html > body > a",
+      "selectorPath": [
+        "html > body > a"
+      ],
+      "tag": "a",
+      "type": null,
+      "url": "https://app.slack.com/client/T05H74R5EGL/activity-inbox"
+    },
+    "kind": "click",
+    "screenshot": null,
+    "step": 29,
+    "timestamp": "2026-10-05T19:11:28.181Z"
+  },
+  {
+    "detail": "click",
+    "element": {
+      "classes": [
+        "slds-tabs_default__link"
+      ],
+      "dataAttrs": {
+        "data-label": "Details",
+        "data-tab-value": "detailTab"
+      },
+      "id": "detailTab__item",
+      "label": "Details",
+      "name": null,
+      "role": "tab",
+      "selector": "#detailTab__item",
+      "selectorPath": [
+        "#detailTab__item"
+      ],
+      "tag": "a",
+      "type": null,
+      "url": "https://firstchair-hls-test-dev-ed.develop.lightning.force.com/lightning/r/HealthcarePractitionerFacility/0bSiw0000000UULEA2/view"
+    },
+    "kind": "click",
+    "screenshot": "screenshots/step-030.jpg",
+    "step": 30,
+    "timestamp": "2026-10-05T19:11:34.027Z"
+  },
+  {
+    "detail": "click",
+    "element": {
+      "classes": [
+        "slds-tabs_default__link"
+      ],
+      "dataAttrs": {
+        "data-label": "Related",
+        "data-tab-value": "relatedListsTab"
+      },
+      "id": "relatedListsTab__item",
+      "label": "Related",
+      "name": null,
+      "role": "tab",
+      "selector": "#relatedListsTab__item",
+      "selectorPath": [
+        "#relatedListsTab__item"
+      ],
+      "tag": "a",
+      "type": null,
+      "url": "https://firstchair-hls-test-dev-ed.develop.lightning.force.com/lightning/r/HealthcarePractitionerFacility/0bSiw0000000UULEA2/view"
+    },
+    "kind": "click",
+    "screenshot": "screenshots/step-031.jpg",
+    "step": 31,
+    "timestamp": "2026-10-05T19:11:35.167Z"
+  },
+  {
+    "detail": "click",
+    "element": {
+      "classes": [
+        "slds-tabs_default__link"
+      ],
+      "dataAttrs": {
+        "data-label": "Details",
+        "data-tab-value": "detailTab"
+      },
+      "id": "detailTab__item",
+      "label": "Details",
+      "name": null,
+      "role": "tab",
+      "selector": "#detailTab__item",
+      "selectorPath": [
+        "#detailTab__item"
+      ],
+      "tag": "a",
+      "type": null,
+      "url": "https://firstchair-hls-test-dev-ed.develop.lightning.force.com/lightning/r/HealthcarePractitionerFacility/0bSiw0000000UULEA2/view"
+    },
+    "kind": "click",
+    "screenshot": "screenshots/step-032.jpg",
+    "step": 32,
+    "timestamp": "2026-10-05T19:11:36.137Z"
+  },
+  {
+    "detail": "click",
+    "element": {
+      "classes": [
+        "c-link"
+      ],
+      "dataAttrs": {
+        "data-stringify-link": "https://firstchair-hls-test-dev-ed.develop.my.salesforce.com/lightning/app/standard__HealthCloudConsole/r/Contact/003iw000001sJ57AAE/view"
+      },
+      "id": null,
+      "label": "Abrir Laura Medina Contact",
+      "name": null,
+      "role": null,
+      "selector": "div > div > div > div > span:nth-of-type(34) > span > span > a",
+      "selectorPath": [
+        "div > div > div > div > span:nth-of-type(34) > span > span > a"
+      ],
+      "tag": "a",
+      "type": null,
+      "url": "https://app.slack.com/client/T05H74R5EGL/activity-inbox"
+    },
+    "kind": "click",
+    "screenshot": "screenshots/step-033.jpg",
+    "step": 33,
+    "timestamp": "2026-10-05T19:11:39.409Z"
+  },
+  {
+    "detail": "click",
+    "element": {
+      "classes": [
+        "slds-tabs_default__link"
+      ],
+      "dataAttrs": {
+        "data-label": "Details",
+        "data-tab-value": "detailTab"
+      },
+      "id": "detailTab__item",
+      "label": "Details",
+      "name": null,
+      "role": "tab",
+      "selector": "#detailTab__item",
+      "selectorPath": [
+        "#detailTab__item"
+      ],
+      "tag": "a",
+      "type": null,
+      "url": "https://firstchair-hls-test-dev-ed.develop.lightning.force.com/lightning/r/Contact/003iw000001sJ57AAE/view"
+    },
+    "kind": "click",
+    "screenshot": "screenshots/step-034.jpg",
+    "step": 34,
+    "timestamp": "2026-10-05T19:11:47.800Z"
+  },
+  {
+    "detail": "click",
+    "element": {
+      "classes": [
+        "slds-tabs_default__link"
+      ],
+      "dataAttrs": {
+        "data-label": "Related",
+        "data-tab-value": "relatedListsTab"
+      },
+      "id": "relatedListsTab__item",
+      "label": "Related",
+      "name": null,
+      "role": "tab",
+      "selector": "#relatedListsTab__item",
+      "selectorPath": [
+        "#relatedListsTab__item"
+      ],
+      "tag": "a",
+      "type": null,
+      "url": "https://firstchair-hls-test-dev-ed.develop.lightning.force.com/lightning/r/Contact/003iw000001sJ57AAE/view"
+    },
+    "kind": "click",
+    "screenshot": "screenshots/step-035.jpg",
+    "step": 35,
+    "timestamp": "2026-10-05T19:11:50.376Z"
+  },
+  {
+    "detail": "click",
+    "element": {
+      "classes": [
+        "c-link"
+      ],
+      "dataAttrs": {
+        "data-stringify-link": "https://firstchair-hls-test-dev-ed.develop.my.salesforce.com/lightning/app/standard__HealthCloudConsole/r/HealthcareProvider/0cmiw0000000qufAAA/view"
+      },
+      "id": null,
+      "label": "Abrir Laura Medina Provider",
+      "name": null,
+      "role": null,
+      "selector": "div > div > div > div > span:nth-of-type(35) > span > span > a",
+      "selectorPath": [
+        "div > div > div > div > span:nth-of-type(35) > span > span > a"
+      ],
+      "tag": "a",
+      "type": null,
+      "url": "https://app.slack.com/client/T05H74R5EGL/activity-inbox"
+    },
+    "kind": "click",
+    "screenshot": "screenshots/step-036.jpg",
+    "step": 36,
+    "timestamp": "2026-10-05T19:11:55.083Z"
+  },
+  {
+    "detail": "click",
+    "element": {
+      "classes": [
+        "c-link"
+      ],
+      "dataAttrs": {
+        "data-stringify-link": "https://firstchair-hls-test-dev-ed.develop.my.salesforce.com/lightning/app/standard__HealthCloudConsole/r/CareProgram/0Zeiw0000020WZpCAM/view"
+      },
+      "id": null,
+      "label": "Abrir Insulin Support Program",
+      "name": null,
+      "role": null,
+      "selector": "div > div > div > div > span:nth-of-type(40) > span > span > a",
+      "selectorPath": [
+        "div > div > div > div > span:nth-of-type(40) > span > span > a"
+      ],
+      "tag": "a",
+      "type": null,
+      "url": "https://app.slack.com/client/T05H74R5EGL/activity-inbox"
+    },
+    "kind": "click",
+    "screenshot": "screenshots/step-037.jpg",
+    "step": 37,
+    "timestamp": "2026-10-05T19:12:05.992Z"
+  },
+  {
+    "detail": "click",
+    "element": {
+      "classes": [],
+      "dataAttrs": {},
+      "id": null,
+      "label": null,
+      "name": null,
+      "role": null,
+      "selector": "html > body > a",
+      "selectorPath": [
+        "html > body > a"
+      ],
+      "tag": "a",
+      "type": null,
+      "url": "https://app.slack.com/client/T05H74R5EGL/activity-inbox"
+    },
+    "kind": "click",
+    "screenshot": null,
+    "step": 38,
+    "timestamp": "2026-10-05T19:12:17.438Z"
+  },
+  {
+    "detail": "click",
+    "element": {
+      "classes": [],
+      "dataAttrs": {},
+      "id": null,
+      "label": null,
+      "name": null,
+      "role": null,
+      "selector": "html > body > a",
+      "selectorPath": [
+        "html > body > a"
+      ],
+      "tag": "a",
+      "type": null,
+      "url": "https://app.slack.com/client/T05H74R5EGL/activity-inbox"
+    },
+    "kind": "click",
+    "screenshot": null,
+    "step": 39,
+    "timestamp": "2026-10-05T19:12:25.491Z"
+  },
+  {
+    "detail": "click",
+    "element": {
+      "classes": [],
+      "dataAttrs": {},
+      "id": null,
+      "label": null,
+      "name": null,
+      "role": null,
+      "selector": "html > body > a",
+      "selectorPath": [
+        "html > body > a"
+      ],
+      "tag": "a",
+      "type": null,
+      "url": "https://app.slack.com/client/T05H74R5EGL/activity-inbox"
+    },
+    "kind": "click",
+    "screenshot": null,
+    "step": 40,
+    "timestamp": "2026-10-05T19:12:34.827Z"
+  },
+  {
+    "detail": "click",
+    "element": {
+      "classes": [],
+      "dataAttrs": {},
+      "id": null,
+      "label": null,
+      "name": null,
+      "role": null,
+      "selector": "html > body > a",
+      "selectorPath": [
+        "html > body > a"
+      ],
+      "tag": "a",
+      "type": null,
+      "url": "https://app.slack.com/client/T05H74R5EGL/activity-inbox"
+    },
+    "kind": "click",
+    "screenshot": null,
+    "step": 41,
+    "timestamp": "2026-10-05T19:12:46.118Z"
+  },
+  {
+    "detail": "click",
+    "element": {
+      "classes": [
+        "slds-tabs_default__link"
+      ],
+      "dataAttrs": {
+        "data-label": "Related",
+        "data-tab-value": "relatedListsTab"
+      },
+      "id": "relatedListsTab__item",
+      "label": "Related",
+      "name": null,
+      "role": "tab",
+      "selector": "#relatedListsTab__item",
+      "selectorPath": [
+        "#relatedListsTab__item"
+      ],
+      "tag": "a",
+      "type": null,
+      "url": "https://firstchair-hls-test-dev-ed.develop.lightning.force.com/lightning/r/HealthcarePractitionerFacility/0bSiw0000000UULEA2/view"
+    },
+    "kind": "click",
+    "screenshot": "screenshots/step-042.jpg",
+    "step": 42,
+    "timestamp": "2026-10-05T19:12:55.589Z"
+  }
+]
